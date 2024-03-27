@@ -1,0 +1,49 @@
+.menu-card {
+  background-color: white;
+  width: 350px;
+  height: 450px;
+  justify-content: center;
+  margin-left: 40px;
+  margin-top: 40px;
+  padding-left: 20px;
+}
+
+.title {
+  font-size: 20px;
+}
+
+.price {
+  justify-content: center;
+  padding-top: 5px;
+  font-size: 20px;
+}
+
+.block {
+   display: inline-block;
+}
+
+.img {
+  width: 250px;
+  height: 200px;
+}
+
+
+
+
+.btn {
+  width: 180px;
+  height: 60px;
+  cursor: pointer;
+  background: transparent;
+  border: 3px solid #410505;
+  outline: none;
+  transition: 1.2s ease-in-out;
+  font-weight: 700;
+  margin-left: 70px;
+  margin-top: -10px;
+}
+
+.btn:hover {
+  transition: 1s ease-in-out;
+  background: #dfcf3e;
+}
